@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EkdbN8+fWzKy3UUNjZY4jJuDL3isE5g1CvSDC8KDfvBBL0vsSLBEVVY4Q5OLmETip8in3fzNBJHUlUleLtPq6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ites_\\OneDrive\\Escritorio\\SUBIDA AL GITHUB CODIGOS\\texto_vertical\\texto_vertical\\texto_vertical.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ites_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

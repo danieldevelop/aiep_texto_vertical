@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "texto_vertical/1.0.0": {
+        "runtime": {
+          "texto_vertical.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "texto_vertical/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
